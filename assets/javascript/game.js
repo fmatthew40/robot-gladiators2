@@ -261,7 +261,6 @@ var playerInfo = {
   }
 };
 
-
 // enemy information
 var enemyInfo = [
   {
