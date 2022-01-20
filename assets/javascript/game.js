@@ -68,7 +68,7 @@ var fight = function(enemy) {
           " health remaining."
       );
 
-      // check enemy's health
+      // check enemy's health points
       if (enemy.health <= 0) {
         window.alert(enemy.name + " has died!");
 
