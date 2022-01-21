@@ -182,7 +182,6 @@ var endGame = function() {
   else {
     window.alert("Thank you for playing Robot Gladiators! Come back soon!")
   }
-
 };
 
 // go to shop between battles function
@@ -284,6 +283,7 @@ console.log(enemyInfo[0].name);
 console.log(enemyInfo[0]['attack']);
 
 /* END GAME INFORMATION / VARIABLES */
+
 
 /* RUN GAME */
 startGame();
